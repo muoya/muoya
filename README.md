@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: This content will be updated soon!
+
 <!--
 **qaliha/qaliha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
