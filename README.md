@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Indonesian University
+- 🌱 I’m currently learning Arabic اَلْعَرَبِيَّةُ
 - ⚡ Fun fact: This content will be updated soon!
 
 <!--
